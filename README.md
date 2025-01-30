@@ -8,6 +8,8 @@ Este projeto gera um mapa interativo baseado em um local informado pelo usuário
 - Um mapa interativo é gerado e salvo como um arquivo `mapa.html`.
 - O mapa é aberto automaticamente no navegador.
 
+![Exemplo](assets/animacao.gif)
+
 ## Dependências
 Antes de rodar o código, instale as dependências necessárias:
 ```bash
